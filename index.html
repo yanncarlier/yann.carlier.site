@@ -26,48 +26,26 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
         header {
-            text-align: center;
             margin-bottom: 2rem;
             padding-bottom: 2rem;
             border-bottom: 2px solid #e9ecef;
         }
-        h1 {
-            font-size: 2.5rem;
-            color: #1a1a2e;
-            margin-bottom: 0.5rem;
+        .contact-links {
+            font-size: 0.9rem;
+            word-break: break-all;
         }
-        .title {
-            font-size: 1.2rem;
-            color: #666;
-            margin-bottom: 1rem;
-        }
-        .contact {
-            display: flex;
-            justify-content: center;
-            gap: 1.5rem;
-            flex-wrap: wrap;
-            font-size: 0.95rem;
-        }
-        .contact a {
+        .contact-links a {
             color: #2563eb;
             text-decoration: none;
         }
-        .contact a:hover {
+        .contact-links a:hover {
             text-decoration: underline;
         }
-        .download-btn {
-            display: inline-block;
-            margin-top: 1.5rem;
-            padding: 0.75rem 1.5rem;
-            background: #1a1a2e;
-            color: white;
-            text-decoration: none;
-            border-radius: 6px;
-            font-weight: 500;
-            transition: background 0.2s;
-        }
-        .download-btn:hover {
-            background: #2d2d44;
+        .name {
+            font-size: 1.4rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 0.3rem;
         }
         h2 {
             font-size: 1.4rem;
@@ -152,20 +130,13 @@
                 box-shadow: none;
                 max-width: 100%;
             }
-            .download-btn {
-                display: none;
-            }
         }
         @media (max-width: 600px) {
             .container {
                 padding: 1.5rem;
             }
-            h1 {
-                font-size: 1.8rem;
-            }
-            .contact {
-                flex-direction: column;
-                gap: 0.5rem;
+            .name {
+                font-size: 1.2rem;
             }
         }
     </style>
@@ -173,14 +144,12 @@
 <body>
     <div class="container">
         <header>
-            <h1>Yann Carlier</h1>
-            <p class="title">Solopreneur</p>
-            <div class="contact">
-                <a href="https://www.linkedin.com/in/yanncarlier/">LinkedIn</a>
-                <a href="https://github.com/yanncarlier">GitHub</a>
+            <div class="name">Yann Carlier</div>
+            <p class="contact-links">
+                <a href="https://www.linkedin.com/in/yanncarlier/">https://www.linkedin.com/in/yanncarlier/</a> |
+                <a href="https://github.com/yanncarlier">https://github.com/yanncarlier</a> |
                 <a href="mailto:yanncarlier@gmail.com">yanncarlier@gmail.com</a>
-            </div>
-            <a href="Yann_Carlier_resume.pdf" class="download-btn" download>Download Resume (PDF)</a>
+            </p>
         </header>
 
         <section>

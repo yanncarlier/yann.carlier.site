@@ -1,5 +1,5 @@
 ### Yann Carlier  
-**Solopreneur**
+
 https://www.linkedin.com/in/yanncarlier/ | https://github.com/yanncarlier | yanncarlier@gmail.com 
 
 ------
