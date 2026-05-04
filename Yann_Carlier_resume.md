@@ -26,7 +26,7 @@ Developer → Infrastructure Admin → Platform Engineering → DevOps → Agent
 
 ## **Founder**
 
-Carlier.site | Oct 2025 – Present | Remote
+Carlier | Oct 2025 – Present | Remote
 
 - AI-native autonomous agentic platforms.
 - local AI inference Hardware/Logical stacks.
