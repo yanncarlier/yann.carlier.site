@@ -100,6 +100,9 @@ Ambition July 2025 - Hong Kong | September 2025 | On-Site
 
 ### AI, Machine Learning & Trading
 
+- Introduction to Model Context Protocol | Anthropic | 2026
+- Building with the Claude API | Anthropic | 2026
+- Introduction to agent skills | Anthropic | 2026
 - Quickstart: LangGraph Essentials - Python | Langchain academy | 2026
 - Quickstart: LangSmith Agent Builder | Langchain academy | 2026
 - Design, Develop, and Deploy Multi-Agent Systems with CrewAI | DeepLearning.AI  | 2026 (in progress)
