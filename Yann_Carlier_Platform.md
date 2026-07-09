@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/yanncarlier) -  [GitHub](https://github.com/yanncarlier) -  carlier@gmail.com
 
-## Senior Platform Engineer, DevOps & AI Systems Leader
+## Senior Platform Engineer, DevOps & AI
 
 Senior technology leader with 20+ years of experience building and operating resilient platforms, cloud and hybrid infrastructure, DevSecOps pipelines, and AI-enabled systems. Proven track record leading infrastructure modernization, high-availability deployments, and product delivery across fintech, blockchain, e-commerce, and enterprise environments.
 
