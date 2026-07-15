@@ -1,6 +1,6 @@
 # Yann Carlier
 
-[LinkedIn](https://www.linkedin.com/in/yanncarlier) -  [GitHub](https://github.com/yanncarlier) -  carlier@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yanncarlier) -  carlier@gmail.com
 
 ## Senior Platform Engineer, DevOps & AI
 
