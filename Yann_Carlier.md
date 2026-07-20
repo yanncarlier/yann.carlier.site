@@ -8,12 +8,12 @@ Senior technology leader with 20+ years of experience building and operating res
 
 ## Core Skills
 
-- AI systems architecture, agentic workflows, local inference stacks, LLM tooling.
-- Platform engineering, SRE, DevOps, CI/CD, IaC, automation-first delivery.
-- Cloud and hybrid infrastructure, data centers, virtualization, bare metal, storage.
-- Security, compliance-aware architecture, identity, access, network hardening.
-- Full-stack delivery, web and mobile products, APIs, infrastructure for SaaS.
-- Leadership, technical strategy, cross-functional execution, Agile coaching.
+- **AI Systems & Cost Optimization**: AI systems architecture, agentic workflows, local inference stacks, LLM tooling, **cost-optimized AI infrastructure**, and efficient MLOps practices.
+- **Platform Engineering & SRE**: Platform engineering, Site Reliability Engineering, DevOps, CI/CD, IaC (Terraform, Ansible), GitOps, FinOps and automation-first delivery.
+- **Cloud & Hybrid Infrastructure**: Multi-cloud (AWS, GCP, Azure), hybrid environments, data centers, bare metal, virtualization, storage, and high-availability systems.
+- **Security & Compliance**: Security-first architecture, DevSecOps, compliance-aware design, identity & access management, and network hardening.
+- **Full-Stack & SaaS Delivery**: Full-stack web and mobile products, APIs, scalable SaaS infrastructure, and blockchain/Web3 integrations.
+- **Leadership & Strategy**: Technical leadership, platform strategy, cross-functional execution, and Agile coaching.
 
 ## Experience
 
