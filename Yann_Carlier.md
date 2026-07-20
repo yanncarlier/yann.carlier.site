@@ -19,9 +19,9 @@ Senior technology leader with 20+ years of experience building and operating res
 
 ### Founder | Carlier
 Oct 2025 – Present | Remote
-- Building AI-native autonomous agent platforms and local inference stacks for practical deployment.
+- Building AI-native autonomous agent platforms and local inference stacks, focusing on cost optimization for practical deployment.
 - Developing mobile and web SaaS products powered by agentic workflows and automation.
-- Exploring applied ML, trading automation, and cost-optimized AI infrastructure.
+- Exploring applied ML, High-frequency trading automation, and and hybrid AI infrastructure.
 
 ### System Engineering Consultant | Ambition
 Jul 2025 – Sep 2025 | Hong Kong | On-site
