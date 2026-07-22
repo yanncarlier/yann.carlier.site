@@ -4,15 +4,15 @@
 
 ## Principal Platform Engineer, AI Infrastructure & DevOps/SRE Leadership
 
-Senior technology leader with 20+ years of experience building and operating resilient platforms, cloud and hybrid infrastructure, DevSecOps pipelines, and AI-enabled systems. Proven track record leading infrastructure modernization, high-availability deployments, and product delivery across fintech, blockchain, e-commerce, and enterprise environments.
+Senior technology leader with 20+ years of experience building and operating resilient platforms, cloud and hybrid infrastructure, DevSecOps pipelines, and AI-enabled systems. Proven track record leading infrastructure modernization, high-availability deployments, and product delivery across fintech, e-commerce, and enterprise environments.
 
 ## Core Skills
 
-- **AI Systems & Cost Optimization**: AI systems architecture, agentic workflows, local inference stacks, LLM tooling, **cost-optimized AI infrastructure**, and efficient MLOps practices.
-- **Platform Engineering & SRE**: Platform engineering, Site Reliability Engineering, DevOps, CI/CD, IaC (Terraform, Ansible), GitOps, FinOps and automation-first delivery.
-- **Cloud & Hybrid Infrastructure**: Multi-cloud (AWS, GCP, Azure), hybrid environments, data centers, bare metal, virtualization, storage, and high-availability systems.
+- **AI Systems & Cost Optimization**: Infrastructure architecture, agentic workflows, local inference stacks, LLM tooling, and efficient MLOps practices.
+- **Platform Engineering & Site Reliability Engineering SRE**: DevOps, CI/CD, IaC (Terraform, Ansible), GitOps, FinOps and automation-first delivery.
+- **Cloud & Hybrid Infrastructure**: Multi-cloud (AWS, GCP, Azure), data centers, bare metal, virtualization, storage, and high-availability systems.
 - **Security & Compliance**: Security-first architecture, DevSecOps, compliance-aware design, identity & access management, and network hardening.
-- **Full-Stack & SaaS Delivery**: Full-stack web and mobile products, APIs, scalable SaaS infrastructure, and blockchain/Web3 integrations.
+- **Full-Stack & SaaS Delivery**: Web and mobile products, APIs, scalable infrastructure, and blockchain/Web3 integrations.
 - **Leadership & Strategy**: Technical leadership, platform strategy, cross-functional execution, and Agile coaching.
 
 ## Experience
