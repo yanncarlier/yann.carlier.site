@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/yanncarlier) -  carlier@gmail.com
 
-## Principal Platform Engineer, AI Infrastructure & DevOps/SRE Leadership
+## Principal Platform Engineer, AI Automation & DevOps/SRE Leadership
 
 Senior technology leader with 20+ years of experience building and operating resilient platforms, cloud and hybrid infrastructure, DevSecOps pipelines, and AI-enabled systems. Proven track record leading infrastructure modernization, high-availability deployments, and product delivery across fintech, e-commerce, and enterprise environments.
 
