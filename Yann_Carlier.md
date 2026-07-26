@@ -1,103 +1,111 @@
 # Yann Carlier
 
-[LinkedIn](https://www.linkedin.com/in/yanncarlier) -  carlier@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yanncarlier) -  [GitHub](https://github.com/yanncarlier/)
 
 ## Principal Platform Engineer, AI Automation & DevOps/SRE Leadership
 
-Senior technology leader with 20+ years of experience building and operating resilient platforms, cloud and hybrid infrastructure, DevSecOps pipelines, and AI-enabled systems. Proven track record leading infrastructure modernization, high-availability deployments, and product delivery across fintech, e-commerce, and enterprise environments.
+Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, and AI systems - with a track record of modernising infrastructure and delivering high-availability products across FinTech, E-commerce, and Enterprise sectors.
 
 ## Core Skills
 
-- **AI Systems & Cost Optimization**: Infrastructure architecture, agentic workflows, local inference stacks, LLM tooling, and efficient MLOps practices.
-- **Platform Engineering & Site Reliability Engineering SRE**: DevOps, CI/CD, IaC (Terraform, Ansible), GitOps, FinOps and automation-first delivery.
-- **Cloud & Hybrid Infrastructure**: Multi-cloud (AWS, GCP, Azure), data centers, bare metal, virtualization, storage, and high-availability systems.
-- **Security & Compliance**: Security-first architecture, DevSecOps, compliance-aware design, identity & access management, and network hardening.
-- **Full-Stack & SaaS Delivery**: Web and mobile products, APIs, scalable infrastructure, and blockchain/Web3 integrations.
-- **Leadership & Strategy**: Technical leadership, platform strategy, cross-functional execution, and Agile coaching.
+- **AI & Infrastructure:** MLOps, agentic workflows, cost-efficient LLM tooling.
+- **Platform & SRE:** CI/CD, IaC, GitOps, FinOps automation.
+- **Cloud & Hybrid:** Multi-cloud, data centers, high-availability systems.
+- **Security:** DevSecOps, IAM, compliance-aware architecture.
+- **Delivery:** Full-stack, SaaS, FinTech integration.
+- **Leadership:** Strategy, cross-functional execution, Agile coaching.
 
 ## Experience
 
 ### Founder | Carlier
-Oct 2025 – Present | Remote
+Oct 2025 - Present | Hong Kong | Remote
 - Building AI-native autonomous agent platforms and local inference stacks, focusing on cost optimization for practical deployment.
 - Developing mobile and web SaaS products powered by agentic workflows and automation.
 - Exploring applied ML, High-frequency trading automation, and and hybrid AI infrastructure.
 
-### System Engineering Consultant | Ambition
-Jul 2025 – Sep 2025 | Hong Kong | On-site
+### Systems Engineering Consultant | Ambition
+Jul 2025 - Sep 2025 | Hong Kong | On-site
 - Supported cloud and infrastructure services for APAC tech operations for a leading international luxury retail brand.
 - Contributed to multi-site data center evaluation and migration strategy.
 - Produced architecture blueprints and capacity planning materials for hybrid cloud transition.
 - Used AI-assisted workflows to accelerate analysis, documentation, and project delivery.
 
-### Founder & CTO | Set-Out International
-Oct 2012 – Jun 2025 | Hybrid
-- Built automated, resilient infrastructure and deployment platforms for high-availability client systems.
-- Led cross-functional engineering efforts to deliver scalable applications with integrated DevSecOps pipelines.
-- Reduced operational risk and improved release reliability through automation, standardization, and infrastructure design.
-
 ### DevOps & Web 3.0 Lead | CoinMENA
-Sep 2021 – Apr 2022 | Dubai | On-site
+Sep 2021 - Apr 2022 | Dubai | On-site
 - Helped shape an Agile DevSecOps culture for a blockchain and trading platform environment.
 - Worked on cybersecurity operations, compliance policies, and security architecture.
 - Supported infrastructure and delivery processes aligned with industry standards.
 
 ### CTO | Boost Rocket Ltd
-Sep 2018 – Aug 2019 | Hong Kong | On-site
+Sep 2018 - Aug 2019 | Hong Kong | On-site
 - Helped design and build the company’s hardware and software stack from scratch.
 - Served as Scrum Master and coached teams on Agile practices and security awareness.
 
 ### Head of DevOps | Diginex
-Feb 2018 – Jul 2018 | Hong Kong | On-site
+Feb 2018 - Jul 2018 | Hong Kong | On-site
 - Planned and deployed infrastructure for blockchain applications.
 - Supported platform reliability, automation, and security-focused operations.
 
 ### DevOps Developer | Appnovation
-Jul 2017 – Jan 2018 | Hong Kong | On-site
+Jul 2017 - Jan 2018 | Hong Kong | On-site
 - Worked with clients to define project scope and implement Atlassian-based platforms.
 - Delivered DevOps and Agile training to strengthen collaboration and continuous improvement.
 
 ### Senior Infrastructure Engineer | ANX International
-Apr 2016 – Jun 2017 | Hong Kong | On-site
+Apr 2016 - Jun 2017 | Hong Kong | On-site
 - Engineered hybrid cloud and bare-metal infrastructure.
 - Built CI/CD pipelines and improved deployment reliability and disaster recovery.
 - Defined DevSecOps and support processes for data center operations.
 
-### Network Operations Manager | Macao Ignite Technology
-May 2009 – May 2011 | Macao | On-site
-- Managed critical IT infrastructure and vendor SLAs for data center operations.
-- Led research and development efforts in web development and cloud infrastructure.
+### Founder & CTO | Set-Out International
 
-### System Administrator | Portugal Telecom
-Jun 2007 – Sep 2008 | Lisbon | On-site
+Oct 2012 - Jun 2025 | Hybrid
+
+- Built automated, resilient infrastructure and deployment platforms for high-availability client systems.
+- Led cross-functional engineering efforts to deliver scalable applications with integrated DevSecOps pipelines.
+- Reduced operational risk and improved release reliability through automation, standardisation, and infrastructure design.
+
+### Network Operations Manager | Macao Ignite Technology
+
+May 2009 - May 2011 | Macao | On-site
+- Managed critical IT infrastructure and vendor SLAs for data center operations.
+
+### R&D Systems Engineer | C&C Lawyers - Macao
+
+Sep 2008 - Mar 2013 | Macao | On-site
+
+- Led research and development, web, applications and infrastructure.
+
+### Systems Engineer | Portugal Telecom
+Jun 2007 - Sep 2008 | Lisbon | On-site
 - Administered Microsoft and Linux systems for large-scale platforms.
 - Supported data center projects to improve infrastructure reliability and performance.
 
 ### Network Engineer | ISINET
-Sep 2006 – Apr 2007 | Lisbon | On-site
+Sep 2006 - Apr 2007 | Lisbon | On-site
 - Supported data center operations, network projects, and client delivery.
 - Configured Cisco and HP networking equipment to improve connectivity and security.
 
 ### IT Manager | DOISBR
-Jun 2004 – Sep 2006 | Lisbon | On-site
+Jun 2004 - Sep 2006 | Lisbon | On-site
 - Managed infrastructure and software projects, including ERP and intranet platforms.
 - Automated operational tasks with scripting to improve efficiency.
 
 ### IT Manager | ADD - Armazem de Dados
-Aug 2001 – Jun 2004 | Lisbon | On-site
+Aug 2001 - Jun 2004 | Lisbon | On-site
 - Managed e-commerce and ERP projects, vendor relationships, and SLAs.
-- Supervised engineers and developers across system delivery initiatives.
+- Supervised engineers and developers across systems delivery initiatives.
 
 ### Full Stack Engineer | Inteliware E-commerce
-May 2001 – Aug 2001 | Lisbon | On-site
+May 2001 - Aug 2001 | Lisbon | On-site
 - Developed B2B and B2C e-commerce platforms with payment integration.
 
 ### Web Developer | Model-Car
-Mar 1999 – May 2001 | Porto | On-site
+Mar 1999 - May 2001 | Porto | On-site
 - Built e-commerce systems and supported digital marketing and platform integration.
 
 ### Graphic Designer | Universidade Catolica Portuguesa
-Aug 1998 – Mar 1999 | Porto | On-site
+Aug 1998 - Mar 1999 | Porto | On-site
 - Designed and coded websites and produced print publications.
 
 ## Education
@@ -107,8 +115,8 @@ Aug 1998 – Mar 1999 | Porto | On-site
 
 ## Certifications and Training
 
-Highlights include AWS Solutions Architect Associate, PMP, CISA, ITIL v3, Linux Foundation DevOps and Kubernetes training, Atlassian administration, blockchain development, Anthropic, Langchain, DeepLearning.AI and other multiple AI/LLM courses from 2019–2026.
+Highlights include AWS Solutions Architect Associate, PMP, CISA, ITIL v3, Linux Foundation DevOps and Kubernetes training, Atlassian administration, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI and other multiple AI/LLM courses.
 
 ## Tools and Technologies
 
-AWS, GCP, Azure, DigitalOcean, Akamai, Cloudflare, Proxmox, VMware, KVM, Docker, LXD, ZFS, Kubernetes, Terraform, Ansible, GitHub Actions, GitLab CI, Linux, Ubuntu, Red Hat, PostgreSQL, MySQL, MongoDB, Redis, Python, Bash, JavaScript, PHP, Node.js, React.js, Rust, Flutter, Solidity, Web3, Prometheus, Grafana, ELK, Nginx, Apache,  Llama.cpp, CrewAI, LangChain, OpenClaw, and other modern AI tooling.
+AWS, GCP, Azure, DigitalOcean, Akamai, Cloudflare, Proxmox, VMware, KVM, Docker, LXD, ZFS, Kubernetes, Terraform, Ansible, GitHub Actions, GitLab CI, Linux, Ubuntu, Red Hat, PostgreSQL, MySQL, MongoDB, Redis, Python, Bash, JavaScript, PHP, Node.js, React.js, Rust, Flutter, Solidity, Web3, Prometheus, Grafana, ELK, Nginx, Apache, Llama.cpp, CrewAI, LangChain, OpenClaw, Hermes, and other modern AI tooling.
