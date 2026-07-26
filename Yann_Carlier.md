@@ -17,95 +17,76 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 
 ## Experience
 
-### Founder | Carlier
-Oct 2025 - Present | Hong Kong | Remote
-- Building AI-native autonomous agent platforms and local inference stacks, focusing on cost optimization for practical deployment.
+### Founder | Carlier | Oct 2025 - Present | Hong Kong | Remote
+- Building AI-native autonomous agent platforms and local inference stacks, focusing on cost optimisation for practical deployment.
 - Developing mobile and web SaaS products powered by agentic workflows and automation.
 - Exploring applied ML, High-frequency trading automation, and and hybrid AI infrastructure.
 
-### Systems Engineering Consultant | Ambition
-Jul 2025 - Sep 2025 | Hong Kong | On-site
+### Systems Engineering Consultant | Ambition | Jul 2025 - Sep 2025 | Hong Kong | On-site
 - Supported cloud and infrastructure services for APAC tech operations for a leading international luxury retail brand.
 - Contributed to multi-site data center evaluation and migration strategy.
 - Produced architecture blueprints and capacity planning materials for hybrid cloud transition.
 - Used AI-assisted workflows to accelerate analysis, documentation, and project delivery.
 
-### DevOps & Web 3.0 Lead | CoinMENA
-Sep 2021 - Apr 2022 | Dubai | On-site
+### DevOps & Web 3.0 Lead | CoinMENA | Sep 2021 - Apr 2022 | Dubai | On-site
 - Helped shape an Agile DevSecOps culture for a blockchain and trading platform environment.
 - Worked on cybersecurity operations, compliance policies, and security architecture.
 - Supported infrastructure and delivery processes aligned with industry standards.
 
-### CTO | Boost Rocket Ltd
-Sep 2018 - Aug 2019 | Hong Kong | On-site
+### CTO | Boost Rocket Ltd | Sep 2018 - Aug 2019 | Hong Kong | On-site
 - Helped design and build the company’s hardware and software stack from scratch.
 - Served as Scrum Master and coached teams on Agile practices and security awareness.
 
-### Head of DevOps | Diginex
-Feb 2018 - Jul 2018 | Hong Kong | On-site
+### Head of DevOps | Diginex | Feb 2018 - Jul 2018 | Hong Kong | On-site
 - Planned and deployed infrastructure for blockchain applications.
 - Supported platform reliability, automation, and security-focused operations.
 
-### DevOps Developer | Appnovation
-Jul 2017 - Jan 2018 | Hong Kong | On-site
+### DevOps Developer | Appnovation | Jul 2017 - Jan 2018 | Hong Kong | On-site
 - Worked with clients to define project scope and implement Atlassian-based platforms.
 - Delivered DevOps and Agile training to strengthen collaboration and continuous improvement.
 
-### Senior Infrastructure Engineer | ANX International
-Apr 2016 - Jun 2017 | Hong Kong | On-site
+### Senior Infrastructure Engineer | ANX | Apr 2016 - Jun 2017 | Hong Kong | On-site
 - Engineered hybrid cloud and bare-metal infrastructure.
 - Built CI/CD pipelines and improved deployment reliability and disaster recovery.
 - Defined DevSecOps and support processes for data center operations.
 
-### Founder & CTO | Set-Out International
-
-Oct 2012 - Jun 2025 | Hybrid
+### Founder & CTO | Set-Out | Oct 2012 - Jun 2025 | Hybrid
 
 - Built automated, resilient infrastructure and deployment platforms for high-availability client systems.
 - Led cross-functional engineering efforts to deliver scalable applications with integrated DevSecOps pipelines.
 - Reduced operational risk and improved release reliability through automation, standardisation, and infrastructure design.
 
-### Network Operations Manager | Macao Ignite Technology
+### Network Operations Manager | Macao Ignite | May 2009 - May 2011 | Macao | On-site
 
-May 2009 - May 2011 | Macao | On-site
 - Managed critical IT infrastructure and vendor SLAs for data center operations.
 
-### R&D Systems Engineer | C&C Lawyers - Macao
-
-Sep 2008 - Mar 2013 | Macao | On-site
+### R&D Systems Engineer | C&C Lawyers | Sep 2008 - Mar 2013 | Macao | On-site
 
 - Led research and development, web, applications and infrastructure.
 
-### Systems Engineer | Portugal Telecom
-Jun 2007 - Sep 2008 | Lisbon | On-site
+### Systems Engineer | Portugal Telecom | Jun 2007 - Sep 2008 | Lisbon | On-site
 - Administered Microsoft and Linux systems for large-scale platforms.
 - Supported data center projects to improve infrastructure reliability and performance.
 
-### Network Engineer | ISINET
-Sep 2006 - Apr 2007 | Lisbon | On-site
+### Network Engineer | ISINET | Sep 2006 - Apr 2007 | Lisbon | On-site
 - Supported data center operations, network projects, and client delivery.
 - Configured Cisco and HP networking equipment to improve connectivity and security.
 
-### IT Manager | DOISBR
-Jun 2004 - Sep 2006 | Lisbon | On-site
+### IT Manager | DOISBR | Jun 2004 - Sep 2006 | Lisbon | On-site
 - Managed infrastructure and software projects, including ERP and intranet platforms.
 - Automated operational tasks with scripting to improve efficiency.
 
-### IT Manager | ADD - Armazem de Dados
-Aug 2001 - Jun 2004 | Lisbon | On-site
+### IT Manager | ADD | Aug 2001 - Jun 2004 | Lisbon | On-site
 - Managed e-commerce and ERP projects, vendor relationships, and SLAs.
 - Supervised engineers and developers across systems delivery initiatives.
 
-### Full Stack Engineer | Inteliware E-commerce
-May 2001 - Aug 2001 | Lisbon | On-site
+### Full Stack Engineer | Inteliware | May 2001 - Aug 2001 | Lisbon | On-site
 - Developed B2B and B2C e-commerce platforms with payment integration.
 
-### Web Developer | Model-Car
-Mar 1999 - May 2001 | Porto | On-site
+### Web Developer | Model-Car | Mar 1999 - May 2001 | Porto | On-site
 - Built e-commerce systems and supported digital marketing and platform integration.
 
-### Graphic Designer | Universidade Catolica Portuguesa
-Aug 1998 - Mar 1999 | Porto | On-site
+### Graphic Designer | Universidade Catolica | Aug 1998 - Mar 1999 | Porto | On-site
 - Designed and coded websites and produced print publications.
 
 ## Education
