@@ -34,6 +34,7 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 - Supported infrastructure and delivery processes aligned with industry standards.
 
 ### CTO | Boost Rocket Ltd | Sep 2018 - Aug 2019 | Hong Kong | On-site
+- Sourced and hired software engineers and Ops specialists.
 - Helped design and build the company’s hardware and software stack from scratch.
 - Served as Scrum Master and coached teams on Agile practices and security awareness.
 
@@ -46,12 +47,14 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 - Delivered DevOps and Agile training to strengthen collaboration and continuous improvement.
 
 ### Senior Infrastructure Engineer | ANX | Apr 2016 - Jun 2017 | Hong Kong | On-site
+- Sourced and hired systems engineers.
 - Engineered hybrid cloud and bare-metal infrastructure.
 - Built CI/CD pipelines and improved deployment reliability and disaster recovery.
 - Defined DevSecOps and support processes for data center operations.
 
 ### Founder & CTO | Set-Out | Oct 2012 - Jun 2025 | Hybrid
 
+- Sourced and hired ops, systems and software engineers.
 - Built automated, resilient infrastructure and deployment platforms for high-availability client systems.
 - Led cross-functional engineering efforts to deliver scalable applications with integrated DevSecOps pipelines.
 - Reduced operational risk and improved release reliability through automation, standardisation, and infrastructure design.
@@ -79,6 +82,7 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 ### IT Manager | ADD | Aug 2001 - Jun 2004 | Lisbon | On-site
 - Managed e-commerce and ERP projects, vendor relationships, and SLAs.
 - Supervised engineers and developers across systems delivery initiatives.
+- Sourced and hired systems and software engineers.
 
 ### Full Stack Engineer | Inteliware | May 2001 - Aug 2001 | Lisbon | On-site
 - Developed B2B and B2C e-commerce platforms with payment integration.
