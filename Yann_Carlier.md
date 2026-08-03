@@ -8,7 +8,7 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 
 ## Core Skills
 
-- **AI & Infrastructure:** MLOps, agentic workflows, cost-efficient LLM tooling.
+- **AI & Infrastructure:** MLOps, agentic workflows, cost-efficient LLM tooling, prompt engineering.
 - **Platform & SRE:** CI/CD, IaC, GitOps, FinOps automation.
 - **Cloud & Hybrid:** Multi-cloud, data centers, high-availability systems.
 - **Security:** DevSecOps, IAM, compliance-aware architecture.
@@ -20,13 +20,13 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 ### Founder | Carlier | Oct 2025 - Present | Hong Kong | Remote
 - Building AI-native autonomous agent platforms and local inference stacks, focusing on cost optimisation for practical deployment.
 - Developing mobile and web SaaS products powered by agentic workflows and automation.
-- Exploring applied ML, High-frequency trading automation, and and hybrid AI infrastructure.
+- Prompt engineering, applied ML, High-frequency trading automation, and and hybrid AI infrastructure.
 
 ### Systems Engineering Consultant | Ambition | Jul 2025 - Sep 2025 | Hong Kong | On-site
 - Supported cloud and infrastructure services for APAC tech operations for a leading international luxury retail brand.
 - Contributed to multi-site data center evaluation and migration strategy.
 - Produced architecture blueprints and capacity planning materials for hybrid cloud transition.
-- Used AI-assisted workflows to accelerate analysis, documentation, and project delivery.
+- Used AI-assisted workflows and prompt engineering to accelerate analysis, documentation, and project delivery.
 
 ### DevOps & Web 3.0 Lead | CoinMENA | Sep 2021 - Apr 2022 | Dubai | On-site
 - Helped shape an Agile DevSecOps culture for a blockchain and trading platform environment.
@@ -100,7 +100,7 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 
 ## Certifications and Training
 
-Highlights include AWS Solutions Architect Associate, PMP, CISA, ITIL v3, Linux Foundation DevOps and Kubernetes training, Atlassian administration, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI and other multiple AI/LLM courses.
+Highlights include AWS Solutions Architect Associate, PMP, CISA, ITIL v3, Linux Foundation DevOps and Kubernetes training, Atlassian administration, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Prompt engineering and other multiple AI/LLM courses.
 
 ## Tools and Technologies
 
