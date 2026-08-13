@@ -100,8 +100,8 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 
 ## Certifications and Training
 
-Highlights include AWS Solutions Architect Associate, PMP, CISA, ITIL v3, Linux Foundation DevOps and Kubernetes training, Atlassian administration, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Prompt engineering and other multiple AI/LLM courses.
+Highlights include, AWS Solutions Architect, AWS DevOps, IAM, CCSP, PMP, CISA, TOGAF, ITIL v3, Linux, Windows Server, DevOps, Kubernetes, Atlassian JIRA, Active Directory, Big Data, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Prompt engineering and other multiple AI/LLM courses.
 
 ## Tools and Technologies
 
-AWS, GCP, Azure, DigitalOcean, Akamai, Cloudflare, Proxmox, VMware, KVM, Docker, LXD, ZFS, Kubernetes, Terraform, Ansible, GitHub Actions, GitLab CI, Linux, Ubuntu, Red Hat, PostgreSQL, MySQL, MongoDB, Redis, Python, Bash, JavaScript, PHP, Node.js, React.js, Rust, Flutter, Solidity, Web3, Prometheus, Grafana, ELK, Nginx, Apache, Llama.cpp, CrewAI, LangChain, OpenClaw, Hermes, and other modern AI tooling.
+AWS, GCP, Azure, Akamai, Cloudflare, VMware, KVM, Proxmox, Docker, LXD, ZFS, Kubernetes, Terraform, Ansible, SaltStack, GitHub Actions, GitLab, Jenkins, Linux, Ubuntu, Red Hat, PostgreSQL, MySQL, Redis, Python, Bash, JavaScript, PHP, Node.js, React.js, Rust, Flutter, Solidity, Web3, Prometheus, Grafana, ELK, Nginx, Apache, Llama.cpp, CrewAI, LangChain, OpenClaw, Hermes, and other modern AI tooling.
