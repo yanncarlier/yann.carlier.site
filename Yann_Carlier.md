@@ -12,15 +12,10 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 - **Platform & SRE:** CI/CD, IaC, GitOps, FinOps automation.
 - **Cloud & Hybrid:** Multi-cloud, data centers, high-availability systems.
 - **Security:** DevSecOps, IAM, compliance-aware architecture.
-- **Delivery:** Full-stack, SaaS, FinTech integration.
-- **Leadership:** Strategy, cross-functional execution, Agile coaching.
+- **Delivery:** Full-stack, SaaS, FinTech, Integration.
+- **Leadership:** Strategy, Cross-functional, Execution, Agile, Coaching.
 
 ## Experience
-
-### Founder | Carlier | Oct 2025 - Present | Hong Kong | Remote
-- Building AI-native autonomous agent platforms and local inference stacks, focusing on cost optimisation for practical deployment.
-- Developing mobile and web SaaS products powered by agentic workflows and automation.
-- Prompt engineering, applied ML, High-frequency trading automation, and and hybrid AI infrastructure.
 
 ### Systems Engineering Consultant | Ambition | Jul 2025 - Sep 2025 | Hong Kong | On-site
 - Supported cloud and infrastructure services for APAC tech operations for a leading international luxury retail brand.
