@@ -53,6 +53,7 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 - Built automated, resilient infrastructure and deployment platforms for high-availability client systems.
 - Led cross-functional engineering efforts to deliver scalable applications with integrated DevSecOps pipelines.
 - Reduced operational risk and improved release reliability through automation, standardisation, and infrastructure design.
+- Architected, deployed, and managed enterprise-wide Disaster Recovery (DR) and Business Continuity Management (BCM) solutions, ensuring operational resilience and minimal downtime.
 
 ### Network Operations Manager | Macao Ignite | May 2009 - May 2011 | Macao | On-site
 
