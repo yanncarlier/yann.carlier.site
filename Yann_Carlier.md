@@ -23,6 +23,14 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 - Produced architecture blueprints and capacity planning materials for hybrid cloud transition.
 - Used AI-assisted workflows and prompt engineering to accelerate analysis, documentation, and project delivery.
 
+### Founder & CTO | Set-Out | Oct 2012 - Jun 2025 | Hybrid
+
+- Sourced and hired ops, systems and software engineers.
+- Built automated, resilient infrastructure and deployment platforms for high-availability client systems.
+- Led cross-functional engineering efforts to deliver scalable applications with integrated DevSecOps pipelines.
+- Reduced operational risk and improved release reliability through automation, standardisation, and infrastructure design.
+- Architected, deployed, and managed enterprise-wide Disaster Recovery (DR) and Business Continuity Management (BCM) solutions, ensuring operational resilience and minimal downtime.
+
 ### DevOps & Web 3.0 Lead | CoinMENA | Sep 2021 - Apr 2022 | Dubai | On-site
 - Helped shape an Agile DevSecOps culture for a blockchain and trading platform environment.
 - Worked on cybersecurity operations, compliance policies, and security architecture.
@@ -46,14 +54,6 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 - Engineered hybrid cloud and bare-metal infrastructure.
 - Built CI/CD pipelines and improved deployment reliability and disaster recovery.
 - Defined DevSecOps and support processes for data center operations.
-
-### Founder & CTO | Set-Out | Oct 2012 - Jun 2025 | Hybrid
-
-- Sourced and hired ops, systems and software engineers.
-- Built automated, resilient infrastructure and deployment platforms for high-availability client systems.
-- Led cross-functional engineering efforts to deliver scalable applications with integrated DevSecOps pipelines.
-- Reduced operational risk and improved release reliability through automation, standardisation, and infrastructure design.
-- Architected, deployed, and managed enterprise-wide Disaster Recovery (DR) and Business Continuity Management (BCM) solutions, ensuring operational resilience and minimal downtime.
 
 ### Network Operations Manager | Macao Ignite | May 2009 - May 2011 | Macao | On-site
 
