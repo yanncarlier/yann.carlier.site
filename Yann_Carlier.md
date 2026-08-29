@@ -2,18 +2,12 @@
 
 [LinkedIn](https://www.linkedin.com/in/yanncarlier) -  [GitHub](https://github.com/yanncarlier/)
 
-## Principal Platform Engineer, AI Automation & DevOps/SRE Leadership
+## Senior Platform Engineer
 
-Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, and AI systems - with a track record of modernising infrastructure and delivering high-availability products across FinTech, E-commerce, and Enterprise sectors.
+Strategic Tech Leader specializing in high-availability platforms, AI integration, and multi-cloud infrastructure. Skilled in driving end-to-end digital transformations, complex migrations, and cost optimization for high-growth startups and enterprises alike. Track record of helping early-stage companies rapidly scale from initial prototype to enterprise-ready production.
 
-## Core Skills
-
-- **AI & Infrastructure:** MLOps, agentic workflows, cost-efficient LLM tooling, prompt engineering.
-- **Platform & SRE:** CI/CD, IaC, GitOps, FinOps automation.
-- **Cloud & Hybrid:** Multi-cloud, data centers, high-availability systems.
-- **Security:** DevSecOps, IAM, compliance-aware architecture.
-- **Delivery:** Full-stack, SaaS, FinTech, Integration.
-- **Leadership:** Strategy, Cross-functional, Execution, Agile, Coaching.
+- **Core Expertise:** Cloud & Data Center Architecture, Cybersecurity, DevOps, AI Integration, Systems Design, Infrastructure Modernization.
+- **Business Impact:** Rapid Startup Scaling (Prototype to Production), Enterprise Cloud Migrations, Cost Optimization, High-Availability Systems.
 
 ## Experience
 
@@ -96,8 +90,8 @@ Experienced tech leader specialising in cloud/hybrid infrastructure, DevSecOps, 
 
 ## Certifications and Training
 
-Highlights include, AWS Solutions Architect, AWS DevOps, IAM, CCSP, PMP, CISA, TOGAF, ITIL v3, Linux, Windows Server, DevOps, Kubernetes, Atlassian JIRA, Active Directory, Big Data, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Prompt engineering and other multiple AI/LLM courses.
+Highlights include, AWS Solutions Architect, AWS DevOps, IAM, CCSP, PMP, CISA, TOGAF, ITIL v3, Linux, Windows Server, DevOps, Kubernetes, Atlassian JIRA, Active Directory, Big Data, Php, Python, JavaScript, Android, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Prompt engineering and other multiple courses.
 
 ## Tools and Technologies
 
-AWS, GCP, Azure, Akamai, Cloudflare, VMware, KVM, Proxmox, Docker, LXD, ZFS, Kubernetes, Terraform, Ansible, SaltStack, GitHub Actions, GitLab, Jenkins, Linux, Ubuntu, Red Hat, PostgreSQL, MySQL, Redis, Python, Bash, JavaScript, PHP, Node.js, React.js, Rust, Flutter, Solidity, Web3, Prometheus, Grafana, ELK, Nginx, Apache, Llama.cpp, CrewAI, LangChain, OpenClaw, Hermes, and other modern AI tooling.
+AWS, GCP, Azure, Akamai, Cloudflare, VMware, KVM, Proxmox, Docker, LXD, ZFS, Kubernetes, Terraform, Ansible, SaltStack, GitHub Actions, GitLab, Jenkins, Linux, Ubuntu, Red Hat, PostgreSQL, MySQL, Redis, Python, Bash, JavaScript, PHP, Node.js, React.js, Rust, Flutter, Solidity, Web3, Prometheus, Grafana, ELK, Nginx, Apache, Llama.cpp, CrewAI, LangChain, OpenClaw, Hermes, and other modern tooling.
