@@ -26,18 +26,23 @@ Strategic Tech Leader specializing in high-availability platforms, AI integratio
 - Architected, deployed, and managed enterprise-wide Disaster Recovery (DR) and Business Continuity Management (BCM) solutions, ensuring operational resilience and minimal downtime.
 
 ### DevOps & Web 3.0 Lead | CoinMENA | Sep 2021 - Apr 2022 | Dubai | On-site
-- Helped shape an Agile DevSecOps culture for a blockchain and trading platform environment.
+- Helped shape an Agile DevSecOps culture.
 - Worked on cybersecurity operations, compliance policies, and security architecture.
 - Supported infrastructure and delivery processes aligned with industry standards.
 
 ### CTO | Boost Rocket Ltd | Sep 2018 - Aug 2019 | Hong Kong | On-site
 - Sourced and hired software engineers and Ops specialists.
-- Helped design and build the company’s hardware and software stack from scratch.
+- Helped design and build the company's processes, hardware, and software stack from the ground up.
+- Planned and deployed CI/CD pipelines DevSecOps and infrastructure for blockchain applications.
 - Served as Scrum Master and coached teams on Agile practices and security awareness.
+- Defined and implemented processes for office service desk, data center and disaster recovery operations.
+- Investment research and analysis.
+- Quant and data-driven investing.
 
 ### Head of DevOps | Diginex | Feb 2018 - Jul 2018 | Hong Kong | On-site
-- Planned and deployed infrastructure for blockchain applications.
+- Planned and deployed CI/CD pipelines DevSecOps and infrastructure for blockchain applications.
 - Supported platform reliability, automation, and security-focused operations.
+- Defined and implemented processes for office service desk, data center and disaster recovery operations.
 
 ### DevOps Developer | Appnovation | Jul 2017 - Jan 2018 | Hong Kong | On-site
 - Worked with clients to define project scope and implement Atlassian-based platforms.
@@ -46,8 +51,9 @@ Strategic Tech Leader specializing in high-availability platforms, AI integratio
 ### Senior Infrastructure Engineer | ANX | Apr 2016 - Jun 2017 | Hong Kong | On-site
 - Sourced and hired systems engineers.
 - Engineered hybrid cloud and bare-metal infrastructure.
-- Built CI/CD pipelines and improved deployment reliability and disaster recovery.
-- Defined DevSecOps and support processes for data center operations.
+- Built CI/CD pipelines DevSecOps and improved deployment reliability.
+- Defined and implemented processes for office service desk, data center and disaster recovery operations.
+- Planed and deployed trading platform environments.
 
 ### Network Operations Manager | Macao Ignite | May 2009 - May 2011 | Macao | On-site
 
@@ -90,7 +96,7 @@ Strategic Tech Leader specializing in high-availability platforms, AI integratio
 
 ## Certifications and Training
 
-Highlights include, AWS Solutions Architect, AWS DevOps, IAM, CCSP, PMP, CISA, TOGAF, ITIL v3, Linux, Windows Server, DevOps, Kubernetes, Atlassian JIRA, Active Directory, Big Data, Php, Python, JavaScript, TypeScript, Android, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Prompt engineering and other multiple courses.
+Highlights include, AWS Solutions Architect, AWS DevOps, IAM, CCSP, PMP, CISA, TOGAF, ITIL v3, Linux, Windows Server, DevOps, Kubernetes, Atlassian JIRA, Active Directory, Big Data, Php, Python, JavaScript, TypeScript, Android, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Machine Learning, Trading, Prompt engineering and other multiple courses.
 
 ## Tools and Technologies
 
