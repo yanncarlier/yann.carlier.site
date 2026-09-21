@@ -100,4 +100,4 @@ Highlights include, AWS Solutions Architect, AWS DevOps, IAM, ES Switching, CCNA
 
 ## Tools and Technologies
 
-AWS, GCP, Azure, Akamai, Cloudflare, VMware, KVM, Proxmox, Docker, LXD, ZFS, Kubernetes, Terraform, Ansible, SaltStack, GitHub Actions, GitLab, Jenkins, Linux, Ubuntu, Red Hat, PostgreSQL, MySQL, Redis, Python, Bash, JavaScript, PHP, Node.js, React.js, Next.js, Rust, Flutter, Solidity, Web3, Prometheus, Grafana, ELK, Nginx, Apache, Llama.cpp, CrewAI, LangChain, OpenClaw, Hermes, and other modern tooling.
+AWS, GCP, Azure, Akamai, Cloudflare, VMware, KVM, Proxmox, Docker, LXD, ZFS, Kubernetes, Terraform, Ansible, SaltStack, GitHub Actions, GitLab, Jenkins, Linux, Ubuntu, Red Hat, PostgreSQL, MySQL, Redis, Python, Bash, JavaScript, PHP, Node.js, React.js, Next.js, Rust, Flutter, Solidity, Web3, Prometheus, Grafana, ELK, Nginx, Apache, Llama.cpp, CrewAI, LangChain, OpenClaw, Hermes, and other modern AI tooling.
