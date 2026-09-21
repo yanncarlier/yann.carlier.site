@@ -96,7 +96,7 @@ Strategic Tech Leader specializing in high-availability platforms, AI integratio
 
 ## Certifications and Training
 
-Highlights include, AWS Solutions Architect, AWS DevOps, IAM, CCSP, PMP, CISA, TOGAF, ITIL v3, Linux, Windows Server, DevOps, Kubernetes, Atlassian JIRA, Active Directory, Big Data, Php, Python, JavaScript, TypeScript, Android, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Machine Learning, Trading, Prompt engineering and other multiple courses.
+Highlights include, AWS Solutions Architect, AWS DevOps, IAM, ES Switching, CCNA, CCSP, PMP, CISA, TOGAF, ITIL v3, Linux, Windows Server, DevOps, Kubernetes, Atlassian JIRA, Active Directory, Big Data, Php, Python, JavaScript, TypeScript, Android, Smart Contracts Development, Anthropic, LangChain, CrewAI, DeepLearning.AI, Machine Learning, Trading, Prompt engineering and other multiple courses.
 
 ## Tools and Technologies
 
