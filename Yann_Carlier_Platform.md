@@ -38,7 +38,7 @@ Hands-on platform and infrastructure engineer with experience across cloud, hybr
 ### CTO | Boost Rocket Ltd | Sep 2018 - Aug 2019 | Hong Kong | On-site
 
 - Helped build the company's hardware, software and engineering processes from the ground up.
-- Planned and deployed CI/CD, DevSecOps and infrastructure for blockchain applications.
+- Planned and deployed Iac, CI/CD, DevSecOps and infrastructure for blockchain applications.
 - Recruited engineers and operations specialists; coached Agile delivery and security awareness.
 
 ### Head of DevOps | Diginex | Feb 2018 - Jul 2018 | Hong Kong | On-site
@@ -50,11 +50,11 @@ Hands-on platform and infrastructure engineer with experience across cloud, hybr
 ------
 ### DevOps Developer | Appnovation | Jul 2017 - Jan 2018 | Hong Kong
 
-- Defined client scope and implemented Atlassian-based platforms; delivered DevOps and Agile training.
+- Defined client scope and implemented Atlassian-based platforms; delivered DevOps pipelines and Agile training.
 
 ### Senior Infrastructure Engineer | ANX | Apr 2016 - Jun 2017 | Hong Kong
 
-- Engineered hybrid-cloud and bare-metal infrastructure and built CI/CD and DevSecOps pipelines.
+- Engineered hybrid-cloud and bare-metal infrastructure and built IaC, CI/CD and DevSecOps pipelines.
 - Planned and deployed trading-platform environments; supported data-center, service-desk and disaster-recovery operations.
 - Recruited systems engineers and helped improve deployment reliability.
 
@@ -62,9 +62,9 @@ Hands-on platform and infrastructure engineer with experience across cloud, hybr
 ------
 - **Network Operations Manager, Macao Ignite** | Macao | 2009-2011 - Critical infrastructure and vendor SLAs for data-center operations.
 - **R&D Systems Engineer, C&C Lawyers** | Macao | 2008-2013 - R&D across web, applications and infrastructure.
-- **Systems Engineer, Portugal Telecom** | Lisbon | 2007-2008 - Microsoft and Linux administration for large-scale platforms and data-center work.
-- **Network Engineer, ISINET** | Lisbon | 2006-2007 - Data-center operations, networking and Cisco/HP infrastructure.
-- **IT Manager, DOISBR / ADD** | Lisbon | 2001-2006 - Infrastructure, ERP, e-commerce, vendors, SLAs and engineering teams.
+- **Systems Engineer, Portugal Telecom** | Lisbon | 2007-2008 - Microsoft and Linux administration for large-scale platforms and data-center infrastructure and networking work.
+- **Network Engineer, ISINET** | Lisbon | 2006-2007 - Data-center, infrastructure, networking Cisco/HP,
+- **IT Manager, DOISBR / ADD** | Lisbon | 2001-2006 -  Data-center, infrastructure, networking Cisco, Enterasys, Alcatel, ERP, and engineering teams.
 - **Full Stack Engineer / Web Developer / Graphic Designer** | Portugal | 1998-2001 - E-commerce, payments, web systems and digital delivery.
 
 ## Technical toolkit
@@ -73,9 +73,7 @@ AWS · GCP · Azure · Akamai · Cloudflare · VMware · KVM · Proxmox · Docke
 
 ## AI and emerging tooling
 ------
-Practical use of AI-assisted workflows and prompt engineering. Current tooling and study include Llama.cpp, CrewAI, LangChain, Anthropic and DeepLearning.AI material. Strong interest in the intersection of crypto infrastructure and AI platforms.
-
-*Positioned as current interest and development, not claimed production AI-platform experience.*
+Practical use of Local AI inference, AI-assisted workflows and prompt engineering. Current tooling and study include Llama.cpp, CrewAI, LangChain, NVIDIA and DeepLearning. AI material. Strong interest in the intersection of crypto infrastructure and AI platforms.
 
 ## Education
 ------
@@ -89,4 +87,4 @@ Training spans Cloud, Infrastructure, Architecture, DevOps, Cybersecurity, Switc
 ## Work preferences
 ------
 **Based in Thailand/Hong Kong · Remote APAC · Open to relocation**
-Primary target: remote APAC hands-on platform, DevOps or SRE roles. Also open to UAE roles and technical-lead responsibilities that remain close to engineering delivery. Work authorization and relocation details to be confirmed for each jurisdiction.
+Primary target: remote APAC hands-on platform, DevOps or SRE roles. Also open to UAE roles and technical-lead responsibilities that remain close to engineering delivery. 
