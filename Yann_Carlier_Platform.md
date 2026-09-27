@@ -63,8 +63,8 @@ Hands-on platform and infrastructure engineer with experience across cloud, hybr
 - **Network Operations Manager, Macao Ignite** | Macao | 2009-2011 - Critical infrastructure and vendor SLAs for data-center operations.
 - **R&D Systems Engineer, C&C Lawyers** | Macao | 2008-2013 - R&D across web, applications and infrastructure.
 - **Systems Engineer, Portugal Telecom** | Lisbon | 2007-2008 - Microsoft and Linux administration for large-scale platforms and data-center infrastructure and networking work.
-- **Network Engineer, ISINET** | Lisbon | 2006-2007 - Data-center, infrastructure, networking Cisco/HP,
-- **IT Manager, DOISBR / ADD** | Lisbon | 2001-2006 -  Data-center, infrastructure, networking Cisco, Enterasys, Alcatel, ERP, and engineering teams.
+- **Network Engineer, ISINET** | Lisbon | 2006-2007 - Data-center operations, networking and Cisco/HP infrastructure.
+- **IT Manager, DOISBR / ADD** | Lisbon | 2001-2006 - Data-center, infrastructure, networking Cisco, Enterasys, and leading teams.
 - **Full Stack Engineer / Web Developer / Graphic Designer** | Portugal | 1998-2001 - E-commerce, payments, web systems and digital delivery.
 
 ## Technical toolkit
@@ -73,7 +73,7 @@ AWS · GCP · Azure · Akamai · Cloudflare · VMware · KVM · Proxmox · Docke
 
 ## AI and emerging tooling
 ------
-Practical use of Local AI inference, AI-assisted workflows and prompt engineering. Current tooling and study include Llama.cpp, CrewAI, LangChain, NVIDIA and DeepLearning. AI material. Strong interest in the intersection of crypto infrastructure and AI platforms.
+Practical use of Local AI inference, AI-assisted workflows and prompt engineering. Current tooling and study include Llama.cpp, CrewAI, LangChain, NVIDIA and DeepLearning. Strong interest in the intersection of crypto infrastructure and AI platforms.
 
 ## Education
 ------
