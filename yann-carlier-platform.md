@@ -67,13 +67,17 @@ Focus: Technical leadership with hands-on delivery.
 - **IT Manager, DOISBR / ADD** | Lisbon | 2001-2006 - Data-center, infrastructure, networking Cisco, Enterasys, and leading teams.
 - **Full Stack Engineer / Web Developer / Graphic Designer** | Portugal | 1998-2001 - E-commerce, payments, web systems and digital delivery.
 
+
+
+
+
 ## Technical toolkit
 ------
-AWS · GCP · Azure · Akamai · Cloudflare · VMware · KVM · Proxmox · Docker · LXD · ZFS · Kubernetes · Terraform · Ansible · SaltStack · GitHub Actions · GitLab · Jenkins · Linux · Ubuntu · Red Hat · PostgreSQL · MySQL · Redis · Python · Bash · JavaScript · TypeScript · PHP · Node.js · React · Next.js · Rust · Solidity · Web3 · Prometheus · Grafana · ELK · Nginx · Apache
+AWS · GCP · Azure · Akamai · Cloudflare · VMware · KVM · Proxmox · Docker · LXD · ZFS · Kubernetes · Terraform · Ansible · SaltStack · GitHub Actions · GitLab · Jenkins · Linux · Ubuntu · Red Hat · PostgreSQL · MySQL · Redis · Python · Bash · JavaScript · TypeScript · PHP · Node.js · React · Next.js · Rust · Solidity · Web3 · Prometheus · Grafana · ELK · Nginx · Apache · Nvidia · OpenClaw · LangChain · CrewAI · Llama.cpp
 
 ## AI and emerging tooling
 ------
-Practical use of Local AI inference, AI-assisted workflows and prompt engineering. Current tooling and study include Llama.cpp, CrewAI, LangChain, NVIDIA and DeepLearning. Strong interest in the intersection of crypto infrastructure and AI platforms.
+Practical use of Local AI inference, AI-assisted workflows and prompt engineering. Current tooling and strong interest in the intersection of crypto infrastructure and AI platforms.
 
 ## Education
 ------
