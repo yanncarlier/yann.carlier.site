@@ -13,7 +13,7 @@ Focus: Technical leadership with hands-on delivery.
 - **Delivery:** GitHub Actions, GitLab CI, Jenkins, CI/CD, DevSecOps
 - **Reliability:** Linux, Prometheus, Grafana, ELK, HA, DR/BCM
 - **Data & services:** PostgreSQL, MySQL, Redis, Nginx, Apache, Cloudflare
-- **Automation:** Python, Bash, JavaScript, TypeScript, PHP, Node.js
+- **Automation:** Rust, Python, Bash, JavaScript, TypeScript, PHP, Node.js
 
 ## Selected experience
 ------
