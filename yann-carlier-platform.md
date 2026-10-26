@@ -2,9 +2,9 @@
 
 ## Senior Platform / DevOps Engineer - [LinkedIn](https://www.linkedin.com/in/yanncarlier) - [GitHub](https://github.com/yanncarlier/)  
 
-Hands-on platform and infrastructure engineer with experience across cloud, hybrid and bare-metal systems, CI/CD, DevSecOps, observability, disaster recovery and high-availability environments. Brings technical leadership from founder, CTO and Head of DevOps roles while staying close to architecture, automation and production operations. Domain experience includes crypto, blockchain, fintech and trading platforms across APAC and Dubai.
+Hands-on platform and infrastructure engineer specializing in cloud, hybrid, and bare-metal systems, CI/CD, DevSecOps, observability, disaster recovery, and high availability. Former founder, CTO, and Head of DevOps who stays close to architecture. Experienced in AI, automation, cybersecurity, crypto, blockchain, fintech, and trading platforms across Europe, APAC, and the Middle East.
 
-**Focus:** Senior/Staff Platform Engineering · DevOps · SRE · Technical leadership with hands-on delivery · Crypto and AI-infrastructure interest.
+Focus: Technical leadership with hands-on delivery. 
 
 ## Core skills
 ------
