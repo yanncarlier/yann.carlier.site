@@ -1,6 +1,6 @@
 # Yann Carlier
 
-## Senior Platform / DevOps Engineer - [LinkedIn](https://www.linkedin.com/in/yanncarlier) - [GitHub](https://github.com/yanncarlier/)  
+## Senior Platform Engineer - [LinkedIn](https://www.linkedin.com/in/yanncarlier) - [GitHub](https://github.com/yanncarlier/)  
 
 Hands-on platform and infrastructure engineer specializing in cloud, hybrid, and bare-metal systems, CI/CD, DevSecOps, observability, disaster recovery, and high availability. Former founder, CTO, and Head of DevOps who stays close to architecture. Experienced in AI, automation, cybersecurity, crypto, blockchain, fintech, and trading platforms across Europe, APAC, and the Middle East.
 
