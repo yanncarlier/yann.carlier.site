@@ -1,19 +1,19 @@
 # Yann Carlier
 
+
+
 ## Senior Platform Engineer - [LinkedIn](https://www.linkedin.com/in/yanncarlier) - [GitHub](https://github.com/yanncarlier/)  
 
-Hands-on platform and infrastructure engineer specializing in cloud, hybrid, and bare-metal systems, CI/CD, DevSecOps, observability, disaster recovery, and high availability. Former founder, CTO, and Head of DevOps who stays close to architecture. Experienced in AI, automation, cybersecurity, crypto, blockchain, fintech, and trading platforms across Europe, APAC, and the Middle East.
-
-Focus: Technical leadership with hands-on delivery. 
+Platform engineer and architect with a background in data centers, cloud infrastructure, and cybersecurity. Previously founder, CTO, and Head of DevOps, and still hands-on with system design. I build resilient, secure platforms for fintech and trading environments, with experience across Europe, APAC, and the Middle East.
 
 ## Core skills
 ------
 - **Cloud & platforms:** AWS, GCP, Azure, Kubernetes, Docker, VMware, KVM, Proxmox
 - **Infrastructure as code:** Terraform, Ansible, SaltStack, GitOps
-- **Delivery:** GitHub Actions, GitLab CI, Jenkins, CI/CD, DevSecOps
-- **Reliability:** Linux, Prometheus, Grafana, ELK, HA, DR/BCM
+- **Delivery:** GitHub Actions, GitLab, Jenkins, CI/CD, DevSecOps
+- **Reliability:** Linux, Unix, MS, Prometheus, Grafana, ELK, HA, DR/BCM
 - **Data & services:** PostgreSQL, MySQL, Redis, Nginx, Apache, Cloudflare
-- **Automation:** Rust, Python, Bash, JavaScript, TypeScript, PHP, Node.js
+- **Automation:** Python, Bash, TypeScript/Node.js, Rust
 
 ## Selected experience
 ------
@@ -67,13 +67,11 @@ Focus: Technical leadership with hands-on delivery.
 - **IT Manager, DOISBR / ADD** | Lisbon | 2001-2006 - Data-center, infrastructure, networking Cisco, Enterasys, and leading teams.
 - **Full Stack Engineer / Web Developer / Graphic Designer** | Portugal | 1998-2001 - E-commerce, payments, web systems and digital delivery.
 
-
-
-
-
 ## Technical toolkit
 ------
 AWS · GCP · Azure · Akamai · Cloudflare · VMware · KVM · Proxmox · Docker · LXD · ZFS · Kubernetes · Terraform · Ansible · SaltStack · GitHub Actions · GitLab · Jenkins · Linux · Ubuntu · Red Hat · PostgreSQL · MySQL · Redis · Python · Bash · JavaScript · TypeScript · PHP · Node.js · React · Next.js · Rust · Solidity · Web3 · Prometheus · Grafana · ELK · Nginx · Apache · Nvidia · OpenClaw · LangChain · CrewAI · Llama.cpp
+
+
 
 ## AI and emerging tooling
 ------
@@ -87,8 +85,3 @@ Practical use of Local AI inference, AI-assisted workflows and prompt engineerin
 ## Professional development
 ------
 Training spans Cloud, Infrastructure, Architecture, DevOps, Cybersecurity, Switching, Routing, CCNA, CCSP, PMP, CISA, TOGAF, ITIL, Enterprise Architecture, Project Management, Programming, Smart contracts, Machine Learning and AI tooling.
-
-## Work preferences
-------
-**Based in Thailand/Hong Kong · Remote APAC · Open to relocation**
-Primary target: remote APAC hands-on platform, DevOps or SRE roles. Also open to UAE roles and technical-lead responsibilities that remain close to engineering delivery. 
